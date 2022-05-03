@@ -78,3 +78,17 @@
 ## [Exa](https://github.com/ogham/exa)
 
 - modern replacement for ls
+
+## [Bat](https://github.com/sharkdp/bat)
+
+- alternative for cat for viewing a content of a file
+- syntax highlighting
+- git diff integration
+- shows non-printable characters (-A)
+- automatic paging through less
+- can be integrated in other tools (fzf, find, fd, tail, git, xclip)
+
+## [FD](https://github.com/sharkdp/fd)
+
+- automatic regex search
+- automatic case insensitive
