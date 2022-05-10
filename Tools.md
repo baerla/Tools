@@ -92,3 +92,8 @@
 
 - automatic regex search
 - automatic case insensitive
+
+## [Tab Ahead](https://github.com/janraasch/tab-ahead)
+
+- fuzzy search your tabs by title or url
+- available for edge, chrome or firefox
