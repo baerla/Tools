@@ -85,7 +85,7 @@
 - framework for managing zsh configuration
 - base for many zsh plugins
 
-### [Exa](https://github.com/ogham/exa)
+### [Eza](https://github.com/eza-community/eza)
 
 - modern replacement for ls
 
