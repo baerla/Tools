@@ -72,7 +72,7 @@
 
 - jump to recent directory via fuzzy search
 
-### [fzf](https://github.com/junegunn/fzf#key-bindings-for-command-line)
+### [Fzf](https://github.com/junegunn/fzf#key-bindings-for-command-line)
 
 - CLI fuzzy finder (recommended for [Zoxide](#zoxide))
 
@@ -98,7 +98,12 @@
 - automatic paging through less
 - can be integrated in other tools (fzf, find, fd, tail, git, xclip)
 
-### [FD](https://github.com/sharkdp/fd)
+### [Fd](https://github.com/sharkdp/fd)
 
 - automatic regex search
 - automatic case insensitive
+
+### [Dog](https://github.com/ogham/dog)
+
+- better alternative to dig
+- is **not supported** anymore
