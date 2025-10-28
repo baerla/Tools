@@ -107,3 +107,8 @@
 
 - better alternative to dig
 - is **not supported** anymore
+
+### [Trippy](https://github.com/fujiapple852/trippy)
+
+- modern alternative to traceroute
+- shows a diagram with the latency
