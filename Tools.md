@@ -112,3 +112,9 @@
 
 - modern alternative to traceroute
 - shows a diagram with the latency
+
+### [Goaccess](https://github.com/allinurl/goaccess)
+
+- alternative for awstats for access.log analysis
+- Creates an HTML page with the key metrics of the access.log
+- Basic command: ``goaccess access.log -o report.html --log-format=COMBINED --date-spec=h``
